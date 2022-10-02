@@ -1,0 +1,4 @@
+[submodule "gybot-presentation-template"]
+	path = gybot-presentation-template
+	url = git@github.com:kubikji2/gybot-presentation-template.git
+	branch = master
