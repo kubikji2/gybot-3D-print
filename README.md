@@ -69,3 +69,9 @@ Jednotlivá témata jsou zpracovávána do separatních `TeX`-souborů v adresá
   - [ ] upravit úkoly, přidat úkoly na podpěry, brim pro hvězdicovité útvary, provázat z modelováním?
 
 - TODO 
+
+## Nápady
+
+- Figurka (tisk a modeování) - adaptivní výška vrstv pro hlavu, vícebarevné vrstvené
+- Více úkolů, které rozšiřují existující, které slouží jako ukázkové pro výklad
+- Přidávání nejen loga, ale i modelu do mince či jiného modelu, vícebarevný -vrstvený tisk
