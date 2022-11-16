@@ -1,0 +1,63 @@
+% Created by Jiri Kubik, 2022
+% '-> based on previous template by: Petr Cizek, 2018
+
+\documentclass[aspectratio=169]{beamer}
+\usepackage[utf8]{inputenc}
+%\usepackage[T1]{fontenc}  
+
+\usepackage{graphicx}
+\usepackage{multimedia}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{multirow}
+\usepackage{ragged2e}
+\usepackage{tabularx}
+
+\usepackage{transparent}
+
+\usepackage{bibentry}
+\nobibliography*
+
+% Use template should be called before defining anything else
+\usetheme{GyBotStyle}
+
+\author{Jiří Kubík}
+\title{}
+\date{\today}
+\institute{%
+\vspace{0.25em}
+   {\bf \ps}\\ 
+\vspace{0.25em}
+   {\bf 2022}\\ 
+\vspace{0.25em}
+   {\GyBot}\\
+\vspace{0.25em}
+   {rev. 2022-10-1}
+}
+
+% uncomment to placing frame title in the header
+\def\compact{1}
+
+% set the left part of the footline to \ComRob
+\renewcommand{\footlineleft}{\insertsubsection}
+% set the right line of the footline to comrob url
+\renewcommand{\footlineright}{\ps}
+
+\begin{document}
+
+    \begin{frame}
+        \titlepage
+    \end{frame}
+
+    \begin{frame}[t]
+        \frametitle{Obsah}
+        \begin{itemize}
+            \item TODO
+        \end{itemize}
+    \end{frame}
+
+    \input{topics/year-programme.tex}
+    \input{topics/3D-model-design-process.tex}
+    
+\end{document}
