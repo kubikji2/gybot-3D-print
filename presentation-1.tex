@@ -1,0 +1,72 @@
+% Created by Jiri Kubik, 2022
+% '-> based on previous template by: Petr Cizek, 2018
+
+\documentclass[aspectratio=169]{beamer}
+\usepackage[utf8]{inputenc}
+%\usepackage[T1]{fontenc}  
+
+\usepackage{graphicx}
+\usepackage{multimedia}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{multirow}
+\usepackage{ragged2e}
+\usepackage{tabularx}
+
+\usepackage{transparent}
+
+\usepackage{bibentry}
+\nobibliography*
+
+% Use template should be called before defining anything else
+\usetheme{GyBotStyle}
+
+\author{Jiří Kubík}
+\title{Úvod do 3D tisku: motivace, technologie a materiály}
+\date{\today}
+\institute{%
+\vspace{0.25em}
+   {\bf \ps}\\ 
+\vspace{0.25em}
+   {\bf 2022}\\ 
+\vspace{0.25em}
+   {\GyBot}\\
+\vspace{0.25em}
+   {rev. 2022-10-1}
+}
+
+% uncomment to placing frame title in the header
+%\def\compact{1}
+
+% set the left part of the footline to \ComRob
+\renewcommand{\footlineleft}{\insertsubsection}
+% set the right line of the footline to comrob url
+\renewcommand{\footlineright}{\ps}
+
+\begin{document}
+
+    \begin{frame}
+        \titlepage
+    \end{frame}
+
+    \begin{frame}[t]
+        \frametitle{Obsah}
+        \begin{itemize}
+            \item Organizace semináře a klasifikace
+            \item Motivační úvod, aneb co můžeme dělat s 3D tiskem
+            \item Přehled technologií 3D tisku
+            \item Technologie FFF/FDM
+            \item Tiskové materiály FFF
+        \end{itemize}
+    \end{frame}
+
+    \input{topics/myself.tex}
+    \input{topics/clasification.tex}
+    \input{topics/year-programme.tex}
+    \input{topics/motivation-for-3D-printing.tex}
+    \input{topics/3D-printing-technology.tex}
+    \input{topics/fff-technology.tex}
+    \input{topics/fff-materials.tex}
+
+\end{document}
