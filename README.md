@@ -23,33 +23,41 @@ Jednotlivá témata jsou zpracovávána do separatních `TeX`-souborů v adresá
   - [ ] přidat myšlenku proměnlivosti zájmů
   - [ ] ukázat možnosti, vypíchnout základní aplikace 3D tisku
   - [ ] zkrátit
-- [ ] Technologie 3D tisku
-  - [ ] upustit od videí, přidat fotografie výrobků
-  - [ ] aktualizovat a aplikace a pokrok
-  - [ ] přidat tisk z čokolády a tisk z písku
-- [ ] FFF/FDM technologie
-  - [ ] vlastnosti a přednosti
-  - [ ] přidat seznámení s částmi tiskárny
-  - [ ] rozdíl bowden vs. direct drive - možná až do tiskových materiálů?
 - [ ] alternativy k 3D tisku pro plasty i kov
   - [ ] vstřikolis a vyfukování 
   - [ ] obrábění a CNC
-
-- [ ] Tiskové materiály
+- [ ] Technologie 3D tisku
+  - [ ] zaměřit se na způsoby spojování
+  - [ ] upustit od videí, přidat fotografie výrobků pro jednotlivé technologie
+  - [ ] aktualizovat a aplikace a pokrok
+  - [ ] přidat tisk z čokolády a tisk z písku  
+- [ ] FFF/FDM technologie
+  - [ ] vlastnosti a přednosti
+  - [ ] přidat seznámení s částmi tiskárny
+  - [ ] rozdíl bowden vs. direct drive včetně obrázků
+    - možná až do tiskových materiálů?
+  - [ ] přidat multi-material updagrade technologie
+- [ ] Tiskové materiály technologie FFF
   - [ ] překlopit
-  - [ ] aktualizovat
-    - [ ] přidat ASA
+  - [ ] přidat úvod - skelný přechod, teplota tání atd.
+  - [ ] vytisknout a přidat příklady jednotlivých materiálů - benchy PLA, ABS, PETG
+  - [ ] přidat využití jednotlivých materiálů
+  - [ ] aktualizovat jednotlivé materiály
     - [ ] aktualizovat HIPS a PVA
+    - [ ] přidat ASA
     - [ ] přidat PC blend
-    - [ ] přidat ceny
-- [ ] Kde sehnat modely
-  - [ ] aktualizovat o Průšovy stránky
-  - [ ] přepracovat
-  - [ ] zahrnout úkoly na shánění modelů
+    - [ ] přidat samozhášecí filament
+    - [ ] přidat wolframový blend 
+    - [ ] přidat ceny jednotlivých materiálů
+
 - [ ] Proces návrhu modelu
   - [ ] vylepšit příklad
   - [ ] překlopit schéma
     - [ ] vertikální i horizontální verze
+- [ ] Kde sehnat modely
+  - [ ] aktualizovat o Průšovy stránky
+  - [ ] přepracovat
+  - [ ] zahrnout úkoly na shánění modelů
 - [ ] Reprezentace modelu v počítači
   - [ ] Seznámení s formáty
   - [ ] Oprava meshe + programy
