@@ -24,12 +24,12 @@ Jednotlivá témata jsou zpracovávána do separatních `TeX`-souborů v adresá
   - [ ] ukázat možnosti, vypíchnout základní aplikace 3D tisku
   - [ ] zkrátit
 - [ ] alternativy k 3D tisku pro plasty i kov
-  - [ ] vstřikolis a vyfukování 
+  - [ ] vstřikolis a vyfukování (ověřit, jestli nejsou i další)
   - [ ] obrábění a CNC
 - [ ] Technologie 3D tisku
-  - [ ] zaměřit se na způsoby spojování
-  - [ ] upustit od videí, přidat fotografie výrobků pro jednotlivé technologie
-  - [ ] aktualizovat a aplikace a pokrok
+  - [ ] zaměřit se na způsoby spojování a podle toho je rozdělit
+  - [ ] upustit od videí, přidat fotografie výrobků a výrobky pro jednotlivé technologie
+  - [ ] aktualizovat aplikace a pokrok
   - [ ] přidat tisk z čokolády a tisk z písku  
 - [ ] FFF/FDM technologie
   - [ ] vlastnosti a přednosti
@@ -47,7 +47,7 @@ Jednotlivá témata jsou zpracovávána do separatních `TeX`-souborů v adresá
     - [ ] přidat ASA
     - [ ] přidat PC blend
     - [ ] přidat samozhášecí filament
-    - [ ] přidat wolframový blend 
+    - [ ] přidat wolframový blend
     - [ ] přidat ceny jednotlivých materiálů
 
 - [ ] Proces návrhu modelu
